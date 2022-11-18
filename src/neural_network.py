@@ -2,7 +2,7 @@ import numpy as np
 import random
 
 
-class NeuralNetwork():
+class NeuralNetwork:
     # input data sh
     def __init__(self, act_func, act_func_der, layers_sizes):
         self.act_func = act_func
