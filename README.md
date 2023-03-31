@@ -8,5 +8,5 @@ New NN has better stability, flexibility, and is producing good results (unlike 
   - **Weights initialization:** the new one uses numpy's normal distribution;
   - **New NN uses delta rule in order to achieve better performance;**<br /><br />
   
-*P.S. If you, by some chance, want to see my "thinking process" during the neural network implementation, here's the mind-mapping whiteboard. It's messy and quite hard to understand, but can be useful anyways :)* <br />
+*P.S. If you, by some chance, want to see my "thinking process" during the neural network implementation, here's the mind-mapping whiteboard. It's messy and quite hard to understand, but can be useful anyways (and sorry for the bad quality) :)* <br />
 <img src="https://i.imgur.com/1ZF3qmx.jpg" />
